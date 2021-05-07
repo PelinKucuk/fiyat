@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Anlık Fiyat</string>
+    <string name="login_text">Kullanıcı Adı ve Şifre Giriniz</string>
+    <string name="email_hint">Email adınız</string>
+    <string name="username_hint">Kullanıcı Adı</string>
+    <string name="password_hint">Şifreniz</string>
+    <string name="password_info">Şifreni mi Unuttum ?</string>
+    <string name="login_submit">Giriş Yap</string>
+    <string name="password_verify_hint">Şifreniz Tekrar Girin</string>
+    <string name="register_text">Üye değil misiniz?</string>
+    <string name="forgot_text">E-posta adresinizi giriniz</string>
+    <string name="send">Gönder</string>
+    <string name="register_title">Üye Ol</string>
+    <string name="register_submit">Kayıt Ol</string>
+</resources>

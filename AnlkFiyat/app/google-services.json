@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "905789280344",
+    "firebase_url": "https://fiyatlandirma-df493-default-rtdb.firebaseio.com",
+    "project_id": "fiyatlandirma-df493",
+    "storage_bucket": "fiyatlandirma-df493.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905789280344:android:f4a0da80202394a320fa2d",
+        "android_client_info": {
+          "package_name": "com.pandastudio.anlikfiyat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905789280344-186v778erg4cj4oimt0fksaqmo3gohcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4-OBmci9Kev41hbMWMxRjnp73wq6PsmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905789280344-186v778erg4cj4oimt0fksaqmo3gohcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
